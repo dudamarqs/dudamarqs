@@ -15,6 +15,3 @@ No momento estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **
 - **Foco**: Aprimoramento em **back-end**
 - **Tecnologias em Estudo**: Python, Java, HTML, CSS, JavaScript e SQL
 
-## 🌐 Contatos:
-- [LinkedIn](www.linkedin.com/in/maria-eduarda-marquess)
-- [E-mail](mailto:eduardamarquesnoleto@gmail.com)
