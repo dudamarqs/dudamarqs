@@ -12,6 +12,5 @@ No momento estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **
 - **Universidade**: Universidade Católica de Brasília (UCB)
 
 ## 🚀 Em Desenvolvimento:
-- **Foco**: Aprimoramento em **back-end**
+- **Foco**: Aprimoramento em **desenvolvimento full-stack**
 - **Tecnologias em Estudo**: Python, Java, HTML, CSS, JavaScript e SQL
-
