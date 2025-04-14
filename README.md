@@ -1,20 +1,20 @@
 <h1 align="center">Maria Eduarda Marques</h1>
-<h4 align="center">Estudante de ADS • Back-end em formação</h4>
+<h4 align="center">Estudante de ADS • Full stack developer em formação</h4>
 
-<!-- Dados -->
+<!-- Contatos -->
 <p align="center">
   <a href="https://www.linkedin.com/in/eduarda-marques-noleto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://www.instagram.com/dudda__marques" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="mailto:eduardamarquesnoleto@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 
 <h3 align="center">⚙️ Tecnologias</h3>
 <p align="center">
@@ -35,9 +35,10 @@
 <!-- Gráficos -->
 <div align="center">
   <a href="https://github.com/dudamarqs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
+
 
     
