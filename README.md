@@ -15,6 +15,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">Minhas habilidades</h3>
 
 <p align="center">
