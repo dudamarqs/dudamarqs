@@ -20,11 +20,14 @@ Também me interesso por **automação** e **modelagem de banco de dados**.
 
 ---
 
-### 🛠️ Minhas Habilidades
-
-- **Linguagens de Programação:** C, Python, Java  
-- **Ferramentas de Desenvolvimento:** Git, GitHub, VSCode  
-- **Interesses:** Back-end, automação, modelagem de banco de dados
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
 
 ---
 
@@ -32,14 +35,7 @@ Também me interesso por **automação** e **modelagem de banco de dados**.
 
 - **Curso:** Análise e Desenvolvimento de Sistemas (em andamento)  
 - **Instituição:** Universidade Católica de Brasília (UCB)
-
----
-
-### 🚀 Em Desenvolvimento
-
-- **Foco atual:** Aprimoramento em back-end  
-- **Tecnologias em Estudo:** Python, Java, HTML, CSS, JavaScript, SQL
-
+  
 ---
 
 <p align="center">
