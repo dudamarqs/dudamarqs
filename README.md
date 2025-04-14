@@ -34,13 +34,6 @@ Também me interesso por **automação** e **modelagem de banco de dados**.
 
 ---
 
-### 🎓 Formação Acadêmica
-
-- **Curso:** Análise e Desenvolvimento de Sistemas (em andamento)  
-- **Instituição:** Universidade Católica de Brasília (UCB)
-  
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&theme=tokyonight" alt="Top Langs" />
