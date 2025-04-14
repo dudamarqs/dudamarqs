@@ -1,16 +1,54 @@
-# Olá! Me chamo Maria Eduarda Marques
+<h1 align="center">Maria Eduarda Marques</h1>
+<h3 align="center">Estudante de ADS na Universidade Católica de Brasília</h3>
 
-No momento estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Católica de Brasília (UCB)**. Meu foco de estudo é **back-end**, onde estou continuamente aprendendo e aplicando tecnologias como **Python**, **Java** e **C**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduarda-marques-noleto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-marques-noleto/" />
+  </a>
+  <a href="https://github.com/dudamarqs" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🛠️ Minhas Habilidades:
-- **Linguagens de Programação**: C, Python, Java
-- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
-- **Interesses**: Back-end, automação, modelagem de banco de dados
+---
 
-## 🎓 Formação Acadêmica:
-- **Curso (em andamento)**: Análise e Desenvolvimento de Sistemas
-- **Universidade**: Universidade Católica de Brasília (UCB)
+### 👩‍💻 Sobre mim
 
-## 🚀 Em Desenvolvimento:
-- **Foco**: Aprimoramento em **back-end**
-- **Tecnologias em Estudo**: Python, Java, HTML, CSS, JavaScript e SQL
+Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Católica de Brasília (UCB)**.  
+Tenho interesse em **desenvolvimento back-end**, com foco contínuo em tecnologias como **Python, Java e C**.  
+Também me interesso por **automação** e **modelagem de banco de dados**.
+
+---
+
+### 🛠️ Minhas Habilidades
+
+- **Linguagens de Programação:** C, Python, Java  
+- **Ferramentas de Desenvolvimento:** Git, GitHub, VSCode  
+- **Interesses:** Back-end, automação, modelagem de banco de dados
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Curso:** Análise e Desenvolvimento de Sistemas (em andamento)  
+- **Instituição:** Universidade Católica de Brasília (UCB)
+
+---
+
+### 🚀 Em Desenvolvimento
+
+- **Foco atual:** Aprimoramento em back-end  
+- **Tecnologias em Estudo:** Python, Java, HTML, CSS, JavaScript, SQL
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dudamarqs&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
