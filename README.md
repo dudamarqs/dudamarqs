@@ -42,10 +42,9 @@ Também me interesso por **automação** e **modelagem de banco de dados**.
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
