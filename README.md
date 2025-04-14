@@ -5,18 +5,15 @@
   <a href="https://www.linkedin.com/in/eduarda-marques-noleto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-marques-noleto/" />
   </a>
-  <a href="https://github.com/dudamarqs" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  
+  <a href="https://www.instagram.com/dudda__marques" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:eduardamarquesnoleto@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 👩‍💻 Sobre mim
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Católica de Brasília (UCB)**.  
-Tenho interesse em **desenvolvimento back-end**, com foco contínuo em tecnologias como **Python e C**.  
-Também me interesso por **automação** e **modelagem de banco de dados**.
 
 ---
 
