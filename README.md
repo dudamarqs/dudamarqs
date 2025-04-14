@@ -15,7 +15,7 @@
 ### 👩‍💻 Sobre mim
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Católica de Brasília (UCB)**.  
-Tenho interesse em **desenvolvimento back-end**, com foco contínuo em tecnologias como **Python, Java e C**.  
+Tenho interesse em **desenvolvimento back-end**, com foco contínuo em tecnologias como **Python e C**.  
 Também me interesso por **automação** e **modelagem de banco de dados**.
 
 ---
@@ -29,7 +29,9 @@ Também me interesso por **automação** e **modelagem de banco de dados**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
+
 
 ---
 
