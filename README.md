@@ -1,5 +1,5 @@
 <h1 align="center">Maria Eduarda Marques</h1>
-<h4 align="center">Estudante de ADS • IA Engineer em formação</h4>
+<h4 align="center">Estudante de ADS • AI Engineer em formação</h4>
 
 <!-- Contatos -->
 <p align="center">
