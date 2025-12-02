@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="310" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320" align="right">
 
 <!-- Título animado futurista -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF3EBF&center=false&vCenter=true&width=540&lines=Desenvolvedora+em+Evolução;Focada+em+IA,+Tecnologia+e+Inovação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF3EBF&center=false&vCenter=true&width=540&lines=Desenvolvedora+em+Evolução;" />
 </p>
 
 ### <span style="color:#FF3EBF; font-weight:700;">Sobre mim</span>
