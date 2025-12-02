@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280" align="right">
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF69B4&center=false&vCenter=true&width=500&lines=Desenvolvedora+em+Evolu%C3%A7%C3%A3o;Focada+em+IA+e+Inova%C3%A7%C3%A3o;" />
