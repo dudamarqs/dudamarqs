@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250" align="right">
 
 <!-- Título animado futurista -->
 <p align="left">
@@ -8,7 +8,7 @@
 ### <span style="color:#FF3EBF; font-weight:700;">Sobre mim</span>
 
 * Estudante de **Análise e Desenvolvimento de Sistemas**  
-* AI Engineer **em formação** 
+* Foco em Engenharia de Machine Learning
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maria-eduarda-marquess" target="_blank">
