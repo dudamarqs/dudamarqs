@@ -54,12 +54,11 @@ Sistema de gestão estudantil em Java com arquitetura MVC/POO, desenvolvido em e
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dudamarqs&show_icons=true&hide_border=true&title_color=FF3EBF&icon_color=FF5CB8&text_color=888888&bg_color=00000000" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarqs&layout=compact&hide_border=true&title_color=FF3EBF&text_color=888888&bg_color=00000000" alt="top langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudamarqs&hide_border=true&background=00000000&ring=FF3EBF&fire=FF2A9E&currStreakLabel=FF3EBF&sideNums=888888&currStreakNum=888888&dates=888888&sideLabels=888888&stroke=888888" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudamarqs&hide_border=true&background=00000000&ring=FF3EBF&fire=FF2A9E&currStreakLabel=FF3EBF&sideNums=888888&currStreakNum=888888&dates=888888&sideLabels=888888&stroke=888888" alt="streak" />
+<img src="https://komarev.com/ghpvc/?username=dudamarqs&color=ff3ebf&style=flat&label=Visitas+no+perfil" alt="views" />
 
 </div>
 
