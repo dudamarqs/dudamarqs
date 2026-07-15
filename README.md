@@ -1,12 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=200&section=header&text=Maria%20Eduarda%20Marques&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Machine%20Learning%20%7C%20Mobile&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=600&color=FF3EBF&center=true&vCenter=true&width=560&lines=Desenvolvedora+em+evolu%C3%A7%C3%A3o;Apaixonada+por+Intelig%C3%AAncia+Artificial;Do+design+ao+deploy" alt="typing" />
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=200&section=header&text=Maria%20Eduarda%20Marques&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%7C%20Data%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 ## Sobre
 
