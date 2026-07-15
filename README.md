@@ -10,7 +10,7 @@
 
 ## Sobre
 
-**Formada em Análise e Desenvolvimento de Sistemas** pela **Universidade Católica de Brasília (UCB)**, com foco em **Inteligência Artificial e Engenharia de Machine Learning**. Tenho interesse em **sistemas de recomendação**, **redes neurais** e **análise de dados** — e também desenvolvo aplicações **mobile** e **web** de ponta a ponta, do design ao deploy.
+**Formada em Análise e Desenvolvimento de Sistemas** pela **Universidade Católica de Brasília (UCB)**. Tenho interesse em **Inteligência Artificial**, com foco em **Machine Learning** e **análise de dados**. Também desenvolvo aplicações **web** e **mobile**, atuando em todo o ciclo de desenvolvimento, do planejamento ao deploy.
 
 <a href="https://www.linkedin.com/in/maria-eduarda-marquess" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF3EBF?style=for-the-badge&logo=linkedin&logoColor=white" />
