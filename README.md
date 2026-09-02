@@ -1,57 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=200&section=header&text=Maria%20Eduarda%20Marques&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%7C%20Data%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=180&section=header&text=Maria%20Eduarda%20Marques&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer&descSize=18&descAlignY=60" width="100%"/>
 
-## Sobre
+Treinei uma rede neural em PyTorch para bater a regressão logística do meu tradutor de Libras.
+Ela empatou e decorou o treino. Mantive o modelo simples em produção e fui mexer nos dados, que
+eram o gargalo de verdade.
 
-**Formada em Análise e Desenvolvimento de Sistemas** pela **Universidade Católica de Brasília (UCB)**. Tenho interesse em **Inteligência Artificial**, com foco em **Machine Learning** e **análise de dados**. Também desenvolvo aplicações **web** e **mobile**, atuando em todo o ciclo de desenvolvimento, do planejamento ao deploy.
+Trabalho assim: o número só vale depois que eu entendo o que ele está medindo. Nos projetos
+abaixo, cada resultado vem com a ressalva do lado — inclusive os que não se sustentaram.
+
+Sou desenvolvedora Python com foco em machine learning aplicado e faço o caminho inteiro: coleta
+e rotulagem dos dados, feature engineering, treino, validação e o modelo servido por API em
+contêiner.
 
 <a href="https://www.linkedin.com/in/maria-eduarda-marquess" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF3EBF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/dudda__marques" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FF2A9E?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://dudamarqs.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF2A9E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:eduardamarquesnoleto@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF5CB8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-## Tecnologias
-
-**Linguagens**  
-![Python](https://img.shields.io/badge/Python-ff3ea8?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-ff63bf?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ff79cf?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ff2a9e?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-ff5faf?style=for-the-badge&logo=c&logoColor=white)
-
-**Inteligência Artificial e Machine Learning**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ff3ea8?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff5faf?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-ff63bf?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-ff79cf?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff93d4?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-ff2e8f?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Front-end e Mobile**  
-![React](https://img.shields.io/badge/React-ff47c9?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-ff1fae?style=for-the-badge&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-ff5cb8?style=for-the-badge&logo=expo&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-ff2e8f?style=for-the-badge&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-ff7dc6?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-ff93d4?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-ff3ebf?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-ff2e8f?style=for-the-badge&logo=figma&logoColor=white)
-
-**Back-end**  
-![Node.js](https://img.shields.io/badge/Node.js-ff93d4?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-ff1fae?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-ff3ea8?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-ff5faf?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Ferramentas**  
-![Git](https://img.shields.io/badge/Git-ff2aa8?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ff47c9?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-ff3ebf?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-ff5cb8?style=for-the-badge&logo=netlify&logoColor=white)
-
 ## Projetos
 
-**[BRChain](https://github.com/dudamarqs/brchain-plataforma-noticias)**  
-Plataforma integrada de recomendação de notícias — API em FastAPI, painel administrativo em Next.js e app mobile em Expo, com scripts de orquestração que sobem os três serviços juntos.
+**[Tradutor de Libras em tempo real](https://github.com/dudamarqs/libras-translator)** · Visão computacional
 
-**[Farmarket](https://github.com/dudamarqs/farmarket)**  
-Marketplace farmacêutico mobile em React Native / Expo, com perfis integrados de cliente, farmácia e entregador.
+Reconhece o alfabeto manual de Libras pela webcam e escreve o texto na tela. Coletei e rotulei 9.271 amostras de 20 letras. Validei com `LeaveOneGroupOut` por sessão de captura, e não por sorteio: cada dobra testa o modelo numa condição de luz e de posição que ele nunca viu. Reporto **88,4%**, e não a média de 95,9%, porque as dobras antigas tinham só 5 letras e inflavam o resultado. O sistema recusa a resposta quando não reconhece o que vê. São 104 testes e 21 decisões de arquitetura escritas.
 
-**[Student-Management](https://github.com/V1N1NUNES/Student-Management)**  
-Sistema de gestão estudantil em Java com arquitetura MVC/POO, desenvolvido em equipe.
+`Python` `OpenCV` `MediaPipe` `scikit-learn` `PyTorch` `pytest`
 
-## GitHub
+**[Assistente de análise de dados com IA](https://github.com/dudamarqs/ai-data-scientist)** · LLM aplicado · [aplicação no ar](https://ai-data-scientist-6gl8.onrender.com)
 
-<div align="center">
+Você sobe um CSV e pergunta em português. O LLM escolhe a ferramenta, mas quem calcula é o Python: pandas, scikit-learn e SHAP. Cada resposta mostra qual ferramenta foi chamada e qual número voltou — nenhum valor sai do modelo de linguagem. O provedor troca entre Gemini e Claude por uma linha do `.env`. São 51 testes, Docker Compose e CI, porque para mim um sistema só fica pronto quando outra pessoa consegue rodar.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudamarqs&hide_border=true&background=00000000&ring=FF3EBF&fire=FF2A9E&currStreakLabel=FF3EBF&sideNums=888888&currStreakNum=888888&dates=888888&sideLabels=888888&stroke=888888" alt="streak" />
+`Python` `FastAPI` `pandas` `scikit-learn` `SHAP` `Docker` `PostgreSQL` `GitHub Actions`
 
-<br/><br/>
+**[Análise SQL de 100 mil pedidos](https://github.com/dudamarqs/olist-ecommerce-analysis)** · SQL e estatística
 
-<img src="https://komarev.com/ghpvc/?username=dudamarqs&color=ff3ebf&style=flat&label=Visitas+no+perfil" alt="views" />
+Dez perguntas de negócio sobre pedidos reais do marketplace Olist, cada uma com a ressalva junto do número. **Dois dos dez achados não sobreviveram a um teste de permutação** — e estão publicados assim mesmo, porque é isso que uma análise honesta parece.
 
-</div>
+`DuckDB` `SQL` `Python`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3ebf,100:ffb6c1&height=120&section=footer" width="100%"/>
+**[Analisador de repositórios com IA](https://github.com/dudamarqs/github-analyzer-ia)** · LLM aplicado · [aplicação no ar](https://github-analyzer-ia.onrender.com)
+
+Avalia a saúde de qualquer repositório público do GitHub. A nota de 0 a 100 sai de 7 sinais ponderados por regras determinísticas; o Gemini só explica o resultado, nunca produz o número. Sem chave de API, a aplicação continua respondendo por regras em vez de falhar.
+
+`Python` `FastAPI` `API do GitHub` `Google Gemini`
+
+**[Classificação de gênero musical](https://github.com/dudamarqs/classificacao-de-genero-musical)** · Machine learning supervisionado · trabalho acadêmico em equipe
+
+Classificação de 35 gêneros a partir de características de áudio do Spotify. Naive Bayes com busca em grade chegou a 80,5% de acurácia. Auditei vazamento de alvo na feature `playlist_subgenre`: removê-la derruba o Random Forest de 75,9% para 48,8% — ainda quase 4x o baseline, e o número honesto do problema.
+
+`Python` `scikit-learn` `R`
+
+**[BR CHAIN — plataforma de notícias](https://github.com/dudamarqs/brchain-plataforma-noticias)** · Full stack · parceria com o Porto Digital
+
+Plataforma de recomendação de notícias com perfis de administrador e de leitor. Em um time de sete pessoas, cuidei da integração dos serviços e da automação do ambiente de desenvolvimento.
+
+`FastAPI` `Next.js` `React Native` `MongoDB` `TypeScript`
+
+## Tecnologias
+
+**Linguagens** — Python, SQL, TypeScript, JavaScript, Java, R, C
+
+**Machine learning** — scikit-learn, PyTorch, pandas, NumPy, validação cruzada
+(`LeaveOneGroupOut`, `GridSearchCV`), prevenção de data leakage, detecção de novidade,
+SHAP para interpretabilidade
+
+**Visão computacional** — OpenCV, MediaPipe, extração e normalização de landmarks, inferência em
+tempo real
+
+**IA aplicada** — APIs de LLM (Google Gemini, Claude), Tool Use, saída estruturada, fallback
+determinístico
+
+**Back-end e deploy** — FastAPI, Flask, Streamlit, APIs REST, Docker, Docker Compose,
+GitHub Actions, PostgreSQL, MySQL, MongoDB, Redis, DuckDB
+
+**Qualidade** — pytest, ruff, ADRs (registros de decisão de arquitetura)
+
+**Front-end e mobile** — React, React Native, Next.js, Expo
+
+**Em aprendizado** — AWS e sistemas de recuperação (RAG) com avaliação medida
+
+## Formação
+
+**Pós-graduação em Machine Learning Engineering** — FIAP, jul/2026 a jul/2027 (em andamento)
+
+**Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília, concluído em 2026
