@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=180&section=header&text=Maria%20Eduarda%20Marques&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer&descSize=18&descAlignY=60" width="100%"/>
 
-Treinei uma rede neural em PyTorch para bater a regressão logística do meu tradutor de Libras.
-Ela empatou e decorou o treino. Mantive o modelo simples em produção e fui mexer nos dados, que
-eram o gargalo de verdade.
-
-Trabalho assim: o número só vale depois que eu entendo o que ele está medindo. Nos projetos
-abaixo, cada resultado vem com a ressalva do lado — inclusive os que não se sustentaram.
-
 Sou desenvolvedora Python com foco em machine learning aplicado e faço o caminho inteiro: coleta
 e rotulagem dos dados, feature engineering, treino, validação e o modelo servido por API em
 contêiner.
