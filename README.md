@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=200&section=header&text=Maria%20Eduarda%20Marques&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 Sou desenvolvedora Python com foco em machine learning aplicado e faço o caminho inteiro: coleta
 e rotulagem dos dados, feature engineering, treino, validação e o modelo servido por API em
