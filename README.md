@@ -42,7 +42,7 @@ Avalia a saúde de qualquer repositório público do GitHub. A nota de 0 a 100 s
 
 **[Classificação de gênero musical](https://github.com/dudamarqs/classificacao-de-genero-musical)** · Machine learning supervisionado · trabalho acadêmico em equipe
 
-Classificação de 35 gêneros a partir de características de áudio do Spotify. Naive Bayes com busca em grade chegou a 80,5% de acurácia. Auditei vazamento de alvo na feature `playlist_subgenre`: removê-la derruba o Random Forest de 75,9% para 48,8% — ainda quase 4x o baseline, e o número honesto do problema.
+Classificação de 35 gêneros a partir de características de áudio do Spotify. Auditei vazamento de alvo na feature `playlist_subgenre` (89% dos subgêneros apontam para um único gênero): sem ela, o melhor modelo é o Random Forest com **43,9% de acurácia**, cerca de 3,5x o baseline de 12,5%. Esse é o número honesto do problema. Os 80,5% originais do Naive Bayes dependiam da feature que vaza e caem para 29% sem ela. A auditoria está no repositório e é reproduzível.
 
 `Python` `scikit-learn` `R`
 
@@ -73,7 +73,7 @@ GitHub Actions, PostgreSQL, MySQL, MongoDB, Redis, DuckDB
 
 **Front-end e mobile** — React, React Native, Next.js, Expo
 
-**Em aprendizado** — AWS e sistemas de recuperação (RAG) com avaliação medida
+**Em aprendizado** — Google Cloud (Vertex AI) e sistemas de recuperação (RAG) com avaliação medida
 
 ## Formação
 
